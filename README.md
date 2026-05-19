@@ -28,7 +28,7 @@ The project uses a comprehensive fruit dataset with images of various fruit clas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Fruit-Recognition.git
+   git clone https://github.com/ondrejhruby/Fruit-Recognition.git
    cd Fruit-Recognition
    ```
 2. Install the required libraries:
